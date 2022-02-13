@@ -1,4 +1,4 @@
-origins_clean	latitude	longitude	distance_from_france	is_from_france	alim_ssssgrp_nom_fr	alim_ssgrp_nom_fr	alim_grp_nom_fr	Nb_scans	Nb_unique_scans
+Country	latitude	longitude	distance_from_france	is_from_france	alim_ssssgrp_nom_fr	alim_ssgrp_nom_fr	alim_grp_nom_fr	Nb_scans	Nb_unique_scans
 Afghanistan	33.7680065	66.2385139	5496.416570274886	0	boissons végétales	boissons sans alcool	eaux et autres boissons	3	1.0
 Albania	41.000028	19.9999619	1578.5233954260298	0	fruits et leurs produits de la Réunion	fruits	fruits, légumes, légumineuses et oléagineux	0	0.0
 Algeria	28.000027199999998	2.9999825	2073.199488550324	0	Autre biscuits sucrés	biscuits sucrés	produits sucrés	8	6.0
